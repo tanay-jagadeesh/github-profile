@@ -60,6 +60,23 @@ A Python-based API that leverages yfinance to fetch real-time stock data and new
 
 **Tech Stack:** Python, FastAPI, yfinance, SQLite
 
+---
+
+## Current Focus
+
+```python
+class TanayJagadeesh:
+    def __init__(self):
+        self.current_projects = ["Stock Market News API", "LeetCode DSA Practice"]
+        self.learning = ["NLP", "RAG", "Azure Cloud Services"]
+        self.interests = ["Data Engineering", "Machine Learning", "Computer Vision"]
+        self.hobbies = ["Basketball", "Chess", "Fitness"]
+
+    def get_status(self):
+        return "Building, learning, and growing every day"
+```
+
+---
 
 ## GitHub Activity
 
@@ -78,6 +95,19 @@ A Python-based API that leverages yfinance to fetch real-time stock data and new
 - Working towards my Azure certification
 - Experimenting with data pipelines and ETL workflows
 - Always down to collaborate on data engineering or ML projects that push boundaries
+
+---
+
+## Certifications & Learning Path
+
+**In Progress:**
+- Microsoft Azure Fundamentals (AZ-900)
+- Learning PySpark and Databricks for large-scale data processing
+
+**Currently Learning:**
+- Machine Learning algorithms (K-means clustering, supervised learning)
+- Building production-ready ML pipelines
+- Distributed data processing with Spark
 
 ---
 
