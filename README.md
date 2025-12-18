@@ -82,6 +82,18 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ---
 
+## Currently Vibing To
+
+<div align="center">
+
+| ![Spotify](https://img.shields.io/badge/Something%20About%20You-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/Sorrows-Bryson%20Tiller-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
+|:---:|:---:|
+| ![Spotify](https://img.shields.io/badge/Break%20Time-Brent%20Faiyaz-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/One%20Dance-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
+
+</div>
+
+---
+
 ## Let's Connect
 
 I'm always excited to connect with fellow developers or collaborate on interesting projects.
