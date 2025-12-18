@@ -53,61 +53,26 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ---
 
-## Featured Projects
+## What I'm Working On
 
-### Stock Market News API
-A Python-based API that leverages yfinance to fetch real-time stock data and news, built with FastAPI for high-performance data retrieval and analysis.
-
-**Tech Stack:** Python, FastAPI, yfinance, SQLite
-
----
-
-## Current Focus
-
-```python
-class TanayJagadeesh:
-    def __init__(self):
-        self.current_projects = ["Stock Market News API", "LeetCode DSA Practice"]
-        self.learning = ["NLP", "RAG", "Azure Cloud Services"]
-        self.interests = ["Data Engineering", "Machine Learning", "Computer Vision"]
-        self.hobbies = ["Basketball", "Chess", "Fitness"]
-
-    def get_status(self):
-        return "Building, learning, and growing every day"
-```
+- Building a Stock Market News API using yfinance, FastAPI, and SQLite
+- Grinding LeetCode problems to master data structures and algorithms
+- Studying for Microsoft Azure Fundamentals (AZ-900) certification
+- Learning PySpark and Databricks for distributed data processing
+- Exploring ML algorithms like K-means clustering and supervised learning
+- Diving into NLP and Retrieval-Augmented Generation (RAG)
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true)
+
 </div>
-
----
-
-## What I'm Working On
-
-- Building a news API project using yfinance to pull and analyze stock market data
-- Grinding LeetCode problems because data structures and algorithms never get old
-- Working towards my Azure certification
-- Experimenting with data pipelines and ETL workflows
-- Always down to collaborate on data engineering or ML projects that push boundaries
-
----
-
-## Certifications & Learning Path
-
-**In Progress:**
-- Microsoft Azure Fundamentals (AZ-900)
-- Learning PySpark and Databricks for large-scale data processing
-
-**Currently Learning:**
-- Machine Learning algorithms (K-means clustering, supervised learning)
-- Building production-ready ML pipelines
-- Distributed data processing with Spark
 
 ---
 
