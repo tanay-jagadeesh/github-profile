@@ -53,13 +53,17 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ---
 
-## GitHub Stats
+## Featured Projects
+
+### Stock Market News API
+A Python-based API that leverages yfinance to fetch real-time stock data and news, built with FastAPI for high-performance data retrieval and analysis.
+
+**Tech Stack:** Python, FastAPI, yfinance, SQLite
+
+
+## GitHub Activity
 
 <div align="center">
-
-![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanay-jagadeesh&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)
 
