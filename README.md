@@ -72,8 +72,6 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)
-
 </div>
 
 ---
