@@ -68,11 +68,16 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)](https://github.com/tanay-jagadeesh)
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanay-jagadeesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay-jagadeesh&theme=redical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/tanay-jagadeesh)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanay-jagadeesh&theme=radical)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanay-jagadeesh&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanay-jagadeesh&theme=radical" alt="Productive Time" />
+</p>
 
 </div>
 
