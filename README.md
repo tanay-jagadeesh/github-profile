@@ -3,26 +3,75 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Aspiring+Machine+Learning+Engineer;Aspiring+Software+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Enthusiast;Building+the+Future+with+Data;Python+%7C+Cloud+%7C+Analytics" alt="Typing SVG" /></a>
 </p>
 
-If you don't see me coding, I'm probably on the court 🏀, strategizing over a chess board ♟️ , or hitting the gym 🏋🏻‍♂️.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanay-jagadeesh&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/tanay-jagadeesh?tab=followers">
+    <img src="https://img.shields.io/github/followers/tanay-jagadeesh?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
+  </a>
+</p>
+
+<p align="center">
+  If you don't see me coding, I'm probably on the court 🏀, strategizing over a chess board ♟️, or hitting the gym 🏋🏻‍♂️
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- First-year Management Engineering student diving deep into the world of data
-- Proficient in **Python** and exploring **Data Science**, **Machine Learning**, and **Data Engineering**
-- Currently learning **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)**
-- Building projects to understand data pipelines, APIs, and real-world applications
-- Passionate about leveraging data to solve problems and create impact
+```python
+class TanayJagadeesh:
+    def __init__(self):
+        self.role = "First-Year Management Engineering Student"
+        self.focus = ["Data Engineering", "Machine Learning", "Software Development"]
+        self.currently_learning = ["NLP", "RAG", "PySpark", "Databricks"]
+        self.certifications = ["Microsoft Azure AZ-900 (In Progress)"]
+        self.hobbies = ["Basketball 🏀", "Chess ♟️", "Fitness 🏋🏻‍♂️"]
+
+    def get_current_status(self):
+        return "Building data-driven solutions and exploring ML algorithms"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together!")
+
+me = TanayJagadeesh()
+me.say_hi()
+```
 
 ---
 
-## Tech Stack
+## 🚀 Current Projects & Focus
 
-### Languages
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Building
+- **Stock Market News API** - yfinance + FastAPI + SQLite
+- **NLP Projects** - Exploring RAG architectures
+- **Data Pipelines** - Learning PySpark & Databricks
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- **Cloud Computing** - Azure Fundamentals (AZ-900)
+- **Algorithms** - LeetCode daily grind
+- **ML Algorithms** - K-means, supervised learning models
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,11 +83,11 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data Engineering & Analytics
+### Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -48,81 +97,70 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## What I'm Working On
-
-- Building a Stock Market News API using yfinance, FastAPI, and SQLite
-- Grinding LeetCode problems to master data structures and algorithms
-- Studying for Microsoft Azure Fundamentals (AZ-900) certification
-- Learning PySpark and Databricks for distributed data processing
-- Exploring ML algorithms like K-means clustering and supervised learning
-- Diving into NLP and Retrieval-Augmented Generation (RAG)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)](https://github.com/tanay-jagadeesh)
-
-[![Tanay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanay-jagadeesh&theme=redical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/tanay-jagadeesh)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanay-jagadeesh&theme=radical)
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanay-jagadeesh&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanay-jagadeesh&theme=radical" alt="Productive Time" />
-</p>
 
 </div>
 
 ---
 
-## Currently Vibing To
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanay-jagadeesh&theme=radical" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanay-jagadeesh&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanay-jagadeesh&theme=radical" alt="Profile Details" />
+</div>
+
+---
+
+## 🎵 Currently Vibing To
 
 <div align="center">
 
-| ![Spotify](https://img.shields.io/badge/Something%20About%20You-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/Sorrows-Bryson%20Tiller-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
+| 🎧 |  |
 |:---:|:---:|
+| ![Spotify](https://img.shields.io/badge/Something%20About%20You-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/Sorrows-Bryson%20Tiller-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
 | ![Spotify](https://img.shields.io/badge/Break%20Time-Brent%20Faiyaz-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/One%20Dance-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
 
 </div>
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-### I'm always excited to connect with fellow developers or collaborate on interesting projects!
+<h3>💡 Open to opportunities in Data Engineering, ML, and Software Development!</h3>
 
 <p>
   <a href="mailto:tanayj2107@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-### Open to opportunities in Data Engineering, ML, and Software Development!
+<p>
+  <i>Always excited to collaborate on interesting projects and connect with fellow developers!</i>
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanay-jagadeesh&color=blueviolet&style=flat-square)
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
