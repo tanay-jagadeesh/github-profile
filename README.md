@@ -68,9 +68,11 @@ If you don't see me coding, I'm probably on the court 🏀, strategizing over a 
 
 <div align="center">
 
-![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanay-jagadeesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanay-jagadeesh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanay-jagadeesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanay-jagadeesh&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
