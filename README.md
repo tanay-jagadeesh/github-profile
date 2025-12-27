@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  If you don't see me coding, I'm probably on the court 🏀, strategizing over a chess board ♟️, or hitting the gym 🏋🏻‍♂️
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -48,7 +44,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 💼 Building
+### Building
 - **Stock Market News API** - yfinance + FastAPI + SQLite
 - **NLP Projects** - Exploring RAG architectures
 - **Data Pipelines** - Learning PySpark & Databricks
@@ -56,7 +52,7 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 📚 Learning
+### Learning
 - **Cloud Computing** - Azure Fundamentals (AZ-900)
 - **Algorithms** - LeetCode daily grind
 - **ML Algorithms** - K-means, supervised learning models
