@@ -118,11 +118,11 @@ me.say_hi()
 
 ---
 
-## 🎵 Currently Vibing To
+## Currently Vibing To
 
 <div align="center">
 
-| 🎧 |  |
+|  |  |
 |:---:|:---:|
 | ![Spotify](https://img.shields.io/badge/Something%20About%20You-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/Sorrows-Bryson%20Tiller-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
 | ![Spotify](https://img.shields.io/badge/Break%20Time-Brent%20Faiyaz-1DB954?style=for-the-badge&logo=spotify&logoColor=white) | ![Spotify](https://img.shields.io/badge/One%20Dance-Drake-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
@@ -131,11 +131,11 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-<h3>💡 Open to opportunities in Data Engineering, ML, and Software Development!</h3>
+<h3>Open to opportunities in Data Engineering, ML, and Software Development</h3>
 
 <p>
   <a href="mailto:tanayj2107@gmail.com">
@@ -150,7 +150,7 @@ me.say_hi()
 </p>
 
 <p>
-  <i>Always excited to collaborate on interesting projects and connect with fellow developers!</i>
+  <i>Always excited to collaborate on interesting projects and connect with fellow developers</i>
 </p>
 
 </div>
