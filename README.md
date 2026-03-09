@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./a.png" width="100%" alt="Tanay Jagadeesh" />
+  <img src="./d.png" width="100%" alt="Tanay Jagadeesh" />
 </div>
 
 ---
@@ -33,10 +33,6 @@
   &nbsp;
   <a href="https://linkedin.com/in/tanay-jagadeesh">
     <img src="https://img.shields.io/badge/LINKEDIN-TANAY--JAGADEESH-1666cc?style=for-the-badge&labelColor=edeef2&color=1666cc&logo=linkedin&logoColor=6b7280" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/GITHUB-TANAY--JAGADEESH-333333?style=for-the-badge&labelColor=edeef2&color=333333&logo=github&logoColor=6b7280" alt="GitHub"/>
   </a>
 </p>
 
