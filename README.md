@@ -24,19 +24,19 @@
 
 <p>
   <a href="https://tanayjagadeesh.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-TANAYJAGADEESH.DEV-e8436e?style=for-the-badge&labelColor=edeef2&color=e8436e&logoColor=6b7280&logo=external-link" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-TANAYJAGADEESH.DEV-e8436e?style=flat-square&labelColor=edeef2&color=e8436e&logoColor=6b7280&logo=external-link" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:tanayj2107@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-TANAYJ2107-e84030?style=for-the-badge&labelColor=edeef2&color=e84030&logo=gmail&logoColor=6b7280" alt="Email"/>
+    <img src="https://img.shields.io/badge/GMAIL-TANAYJ2107-e84030?style=flat-square&labelColor=edeef2&color=e84030&logo=gmail&logoColor=6b7280" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/LINKEDIN-TANAY--JAGADEESH-1666cc?style=for-the-badge&labelColor=edeef2&color=1666cc&logo=linkedin&logoColor=6b7280" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-TANAY--JAGADEESH-1666cc?style=flat-square&labelColor=edeef2&color=1666cc&logo=linkedin&logoColor=6b7280" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://github.com/tanay-jagadeesh">
-    <img src="https://img.shields.io/badge/GITHUB-TANAY--JAGADEESH-333333?style=for-the-badge&labelColor=edeef2&color=333333&logo=github&logoColor=6b7280" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-TANAY--JAGADEESH-333333?style=flat-square&labelColor=edeef2&color=333333&logo=github&logoColor=6b7280" alt="GitHub"/>
   </a>
 </p>
 
