@@ -1,27 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="34">
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="34">
   <defs>
-    <clipPath id="c"><rect width="192" height="34" rx="6"/></clipPath>
+    <clipPath id="c"><rect width="210" height="34" rx="6"/></clipPath>
     <filter id="sh" x="-5%" y="-10%" width="110%" height="120%">
       <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.15"/>
     </filter>
   </defs>
   <g clip-path="url(#c)" filter="url(#sh)">
-    <!-- Left: muted light grey bg -->
-    <rect x="0" y="0" width="86" height="34" fill="#edeef2"/>
-    <!-- Right: gmail red hsl(4,80%,56%) -->
-    <rect x="86" y="0" width="106" height="34" fill="#e84030"/>
-    <!-- Border -->
-    <rect x="0" y="0" width="192" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Divider -->
-    <line x1="86" y1="0" x2="86" y2="34" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Icon: Mail (Lucide) 14x14 at (12,10) -->
-    <g transform="translate(12,10)" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0"  y="0" width="90"  height="34" fill="#edeef2"/>
+    <rect x="90" y="0" width="120" height="34" fill="#e84030"/>
+    <rect x="0"  y="0" width="210" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
+    <line x1="90" y1="0" x2="90" y2="34" stroke="#dcdee6" stroke-width="1"/>
+    <!-- Mail icon -->
+    <g transform="translate(12,11)" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
       <rect x="0" y="0" width="14" height="12" rx="2"/>
       <path d="M0 3l7 5 7-5"/>
     </g>
-    <!-- Left label -->
     <text x="32" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" letter-spacing="0.7" fill="#6b7280">GMAIL</text>
-    <!-- Right value -->
-    <text x="97" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAYJ2107</text>
+    <text x="102" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAYJ2107</text>
   </g>
 </svg>

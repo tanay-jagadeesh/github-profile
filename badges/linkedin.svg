@@ -1,33 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="224" height="34">
+<svg xmlns="http://www.w3.org/2000/svg" width="258" height="34">
   <defs>
-    <clipPath id="c"><rect width="224" height="34" rx="6"/></clipPath>
+    <clipPath id="c"><rect width="258" height="34" rx="6"/></clipPath>
     <filter id="sh" x="-5%" y="-10%" width="110%" height="120%">
       <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.15"/>
     </filter>
   </defs>
   <g clip-path="url(#c)" filter="url(#sh)">
-    <!-- Left: muted light grey bg -->
-    <rect x="0" y="0" width="96" height="34" fill="#edeef2"/>
-    <!-- Right: linkedin blue hsl(210,80%,45%) -->
-    <rect x="96" y="0" width="128" height="34" fill="#1666cc"/>
-    <!-- Border -->
-    <rect x="0" y="0" width="224" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Divider -->
-    <line x1="96" y1="0" x2="96" y2="34" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Icon: Linkedin (Lucide) 14x14 at (12,10) -->
-    <g transform="translate(12,10)" fill="#6b7280">
-      <!-- in box -->
-      <rect x="0" y="0" width="14" height="14" rx="2" fill="none" stroke="#6b7280" stroke-width="1.5"/>
-      <!-- l -->
-      <rect x="3" y="5.5" width="2" height="5.5" rx="0.5"/>
-      <circle cx="4" cy="3.5" r="1.1"/>
-      <!-- i -->
-      <rect x="7" y="5.5" width="2" height="5.5" rx="0.5"/>
-      <path d="M7 7.5c0-1.1.6-2 2-2 1.5 0 2 1 2 2.3V11H9V8c0-.6-.2-1-.8-1s-1.2.4-1.2 1v3H7V7.5z"/>
+    <rect x="0"   y="0" width="104" height="34" fill="#edeef2"/>
+    <rect x="104" y="0" width="154" height="34" fill="#1666cc"/>
+    <rect x="0"   y="0" width="258" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
+    <line x1="104" y1="0" x2="104" y2="34" stroke="#dcdee6" stroke-width="1"/>
+    <!-- LinkedIn icon -->
+    <g transform="translate(12,10)" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="14" height="14" rx="2"/>
+      <line x1="4" y1="6" x2="4" y2="11"/>
+      <line x1="4" y1="3.5" x2="4" y2="4"/>
+      <path d="M7 11V8.5C7 7.4 7.9 6.5 9 6.5s2 .9 2 2V11"/>
+      <line x1="7" y1="6" x2="7" y2="11"/>
     </g>
-    <!-- Left label -->
     <text x="32" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" letter-spacing="0.7" fill="#6b7280">LINKEDIN</text>
-    <!-- Right value -->
-    <text x="108" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAY-JAGADEESH</text>
+    <text x="116" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAY-JAGADEESH</text>
   </g>
 </svg>

@@ -1,28 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="232" height="34">
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="34">
   <defs>
-    <clipPath id="c"><rect width="232" height="34" rx="6"/></clipPath>
+    <clipPath id="c"><rect width="310" height="34" rx="6"/></clipPath>
     <filter id="sh" x="-5%" y="-10%" width="110%" height="120%">
       <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.15"/>
     </filter>
   </defs>
   <g clip-path="url(#c)" filter="url(#sh)">
-    <!-- Left: muted light grey bg -->
-    <rect x="0" y="0" width="114" height="34" fill="#edeef2"/>
-    <!-- Right: primary pink-red -->
-    <rect x="114" y="0" width="118" height="34" fill="#e8436e"/>
-    <!-- Border -->
-    <rect x="0" y="0" width="232" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Divider -->
-    <line x1="114" y1="0" x2="114" y2="34" stroke="#dcdee6" stroke-width="1"/>
-    <!-- Icon: ExternalLink (Lucide) 14x14 at (12,10) -->
+    <rect x="0"   y="0" width="120" height="34" fill="#edeef2"/>
+    <rect x="120" y="0" width="190" height="34" fill="#e8436e"/>
+    <rect x="0"   y="0" width="310" height="34" fill="none" rx="6" stroke="#dcdee6" stroke-width="1"/>
+    <line x1="120" y1="0" x2="120" y2="34" stroke="#dcdee6" stroke-width="1"/>
+    <!-- ExternalLink icon -->
     <g transform="translate(12,10)" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
       <path d="M10 1h3v3"/>
       <path d="M13 1L7 7"/>
       <path d="M6 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V8"/>
     </g>
-    <!-- Left label -->
     <text x="32" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="600" letter-spacing="0.7" fill="#6b7280">PORTFOLIO</text>
-    <!-- Right value -->
-    <text x="125" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAYJAGADEESH.DEV</text>
+    <text x="132" y="22" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="0.5" fill="#ffffff">TANAYJAGADEESH.DEV</text>
   </g>
 </svg>
