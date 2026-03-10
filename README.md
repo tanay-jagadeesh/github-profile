@@ -4,15 +4,15 @@
 
 ---
 
-<img src="./1.png" height="20" width="20" align="absmiddle"/> &nbsp;LLM Research with **Prof. Roberto Foa** (University of Cambridge)
+<img src="./1.png" height="28" width="28" align="absmiddle"/> &nbsp;LLM Research with **Prof. Roberto Foa** (University of Cambridge)
 
-<img src="./2.png" height="20" width="20" align="absmiddle"/> &nbsp;Building **voice agents** and a **referral pipeline** with [Wedge (YCS25)](https://www.ycombinator.com/companies/wedge) and Dr. Guha Roy
+<img src="./2.png" height="28" width="28" align="absmiddle"/> &nbsp;Building **voice agents** and a **referral pipeline** with [Wedge (YCS25)](https://www.ycombinator.com/companies/wedge) and Dr. Guha Roy
 
-<img src="./3.png" height="20" width="20" align="absmiddle"/> &nbsp;**AI/ML Engineer** @ IntoTheOpen
+<img src="./3.png" height="28" width="28" align="absmiddle"/> &nbsp;**AI/ML Engineer** @ IntoTheOpen (recognized by NVIDIA Inception)
 
-<img src="./4.png" height="20" width="20" align="absmiddle"/> &nbsp;**Incoming Data Science Intern** @ Workplace Safety and Insurance Board (WSIB)
+<img src="./4.png" height="28" width="28" align="absmiddle"/> &nbsp;**Incoming Data Science Intern** @ Workplace Safety and Insurance Board (WSIB)
 
-<img src="./5.png" height="20" width="20" align="absmiddle"/> &nbsp;Won **Canada's largest Data + AI hackathon** — CXC ($1,000 prize, 350+ participants)
+<img src="./5.png" height="28" width="28" align="absmiddle"/> &nbsp;Won **Canada's largest Data + AI hackathon** — CXC ($1,000 prize, 350+ participants)
 
 ---
 
