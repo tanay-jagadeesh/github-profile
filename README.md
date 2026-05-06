@@ -8,7 +8,7 @@
 
 <img src="./2.png" height="28" width="28" align="absmiddle"/> &nbsp;Building **voice agents** and a **referral pipeline** with [Wedge (YCS25)](https://www.ycombinator.com/companies/wedge) and Dr. Guha Roy
 
-<img src="./3.png" height="28" width="28" align="absmiddle"/> &nbsp;** prev. Software Engineer** @ IntoTheOpen (recognized by NVIDIA Inception)
+<img src="./3.png" height="28" width="28" align="absmiddle"/> &nbsp;Prev. Software Engineer** @ IntoTheOpen (recognized by NVIDIA Inception)
 
 <img src="./4.png" height="28" width="28" align="absmiddle"/> &nbsp;**Incoming Data Science Intern** @ Workplace Safety and Insurance Board (WSIB)
 
